@@ -1,0 +1,1 @@
+# rfc-js-destructuring-reassignment
